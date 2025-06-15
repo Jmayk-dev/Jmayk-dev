@@ -4,3 +4,4 @@ _________________________________________________________________
 - Studying for Engineer of innovation and digital market and Engineer of infrastructure for sustainable mobility
 - Currently learning GLSL and Java, big creativity but currently low skills
 - Italian translator when the project isn't too long
+- link for contact me: https://bio.link/jmayk
